@@ -1,5 +1,5 @@
 // const ApiRootUrl = 'http://localhost:8360/api/';
-const ApiRootUrl = 'https://www.hiolabs.com/api/';
+const ApiRootUrl = 'https://api.zudapang.ltd/';
 
 module.exports = {
     // 登录
